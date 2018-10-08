@@ -7,7 +7,7 @@ using SmartMenuLibrary;
 
 namespace SmartMenuApp.cs
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -17,11 +17,11 @@ namespace SmartMenuApp.cs
 
         private void Run()
         {
+
+            Bindings binding = new Bindings(); 
             SmartMenu menu = new SmartMenu();
             menu.LoadMenu(":MenuSpec.txt");
-            menu.Activate();
-
-
+            menu.Activate(binding);
         }
     }
 }
