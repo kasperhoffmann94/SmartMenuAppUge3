@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SmartMenuLibrary">
-      <HintPath>..\..\..\..\OneDrive - Erhvervsakademiet Lillebælt\EAL\Datamatiker\1. Semester\Projekt programmering\SmartMenuApp.Code-master\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll</HintPath>
+      <HintPath>..\..\ProgrammeringsProjektUge23\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
