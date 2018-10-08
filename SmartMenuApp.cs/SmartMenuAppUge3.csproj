@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FunctionLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ProgrammeringsProjektUge2\FunctionLibrary\bin\Debug\FunctionLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="SmartMenuLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\ProgrammeringsProjektUge2\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll</HintPath>

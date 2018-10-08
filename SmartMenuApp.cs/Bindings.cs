@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SmartMenuLibrary;
+using FunctionLibrary;
 
 namespace SmartMenuApp.cs
 {
