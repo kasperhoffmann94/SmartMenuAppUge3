@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CalculatorLibrary">
+      <HintPath>..\..\ProgrammeringsProjektUge2\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="FunctionLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\ProgrammeringsProjektUge2\FunctionLibrary\bin\Debug\FunctionLibrary.dll</HintPath>
